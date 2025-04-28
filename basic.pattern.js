@@ -94,12 +94,13 @@
  
 // let n=4;
 // let num=1;
+// let nst=1;
 // for(let i=1;i<=n;i++){
-//     for(let j=1;j<=i;j++){
+//     for(let j=1;j<=nst;j++){
 //         process.stdout.write(num.toString()+" ");
 //         num++;
 //     }
-   
+//     nst++;
 //     console.log();
     
 // }
