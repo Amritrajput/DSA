@@ -31,3 +31,16 @@
 // name()
 
 
+// print(1-N)
+
+// function printno(n){
+//     let count=1;
+//     function printnumber(n){
+//         if(count=== n+1) return;
+//         console.log(count);
+//         count++;
+//         printnumber(n);
+//     }
+//     printnumber(n);
+// }
+// printno(5)
