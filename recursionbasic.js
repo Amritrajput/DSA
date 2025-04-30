@@ -44,3 +44,18 @@
 //     printnumber(n);
 // }
 // printno(5)
+
+
+// print(N-1)
+
+// function printno(n){
+//     let count=n;
+//     function printnumber(n){
+//         if(count===0) return;
+//         console.log(count);
+//         count--;
+//         printnumber(n);
+//     }
+//     printnumber(n);
+// }
+// printno(5)
